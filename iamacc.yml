@@ -4,7 +4,7 @@ Parameters:
 
   YourAccID:    
     Type: String
-    Default: "032977620247"    #<--- Pass your aws account id
+    Default: "0329776202"    #<--- Pass your aws account id
   
   OtherAccID:    
     Type: String
